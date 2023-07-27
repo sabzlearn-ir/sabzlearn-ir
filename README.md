@@ -1,58 +1,7 @@
-### Hi there, I'm Mohammad Amin Saeedi Rad 👋
+# من کی‌ ام؟ 👨‍💻
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
 
-- This **Text** Is Bold
-- This __Text__ Is Bold
-- This *Text* Is Bold
-- This _Text_ Is Bold
-- This ***Text*** Is Bold
-- This ___Text___ Is Bold
-
--------
-
-> I am `Mern Stack` Developer
->> I Develop Sabzlearn Backend
-
-----------------
-
-```diff
-- const login = () => true
-
-+ const login = () => jwtToken
-```
-
----
-
-<ul>
-  <li>FrontEnd
-    <ul>
-      <li>Js</li>
-      <li>React</li>
-      <li>Vue</li>
-      <li>Ts</li>
-    </ul>
-  </li>
-   <li>Backend</li>
-   <li>DevOps</li>
-</ul>
-
------
-
-1. FrontEnd
-   1. Js
-   2. React
-   3. Vue
-   4. Ts
-   5. Npm
-2. Backend
-3. DevOps
-
-------
-
-# Tables
-| Front End | Back End | Col 3|
-| -- | -- | -- |
-| Js | Node js | Row 1 Col 3 |
-| React | Express js | Row 2 Col 3 |
-| Vue | Nest Js | Row 3 Col 3 |
-| Angular | Row 4 Col 2 | Row 4 Col 3 |
-| Ts | Row 5 Col 2 | Row 5 Col 3 |
+<h2 align="center">سلام 🖐 من محمد امین سعیدی راد هستم</h2>
+<p align="center">
+  برنامه نویس فرانت اند 🖥 مدرس برنامه نویسی ❤️ دانشجوی رشته مهندسی کامپیوتر 👨‍💻 و عاشق دنیای صفر و یک ✌️
+</p>
