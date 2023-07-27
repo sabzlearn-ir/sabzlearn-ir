@@ -18,3 +18,22 @@
 <a href="https://instagram.com/rad_front"><img width="50px" height="50px" align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-instagram-96.png?raw=true" alt="Instagram" /></a>
 <a href="https://t.me/aminkhoy78"><img width="50px" height="50px"  align="left" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/icons8-telegram-96.png?raw=true" alt="Telegram" /></a>
 
+<br />
+
+<h2 align="right">الان به چه کار هایی مشغول هستم 🌚</h2>
+
+ <h3 align="right">🌟 توسعه بک‌اند آکادمی سبزلرن</h3>
+ <h3 align="right">🌟 تدریس دوره گیت و گیت‌هاب</h3>
+ <h3 align="right">🌟 تولید محتوا</h3>
+ <h3 align="right">🌟 توسعه فرانت‌اند سایت Onlyjs</h3>
+
+<br />
+
+<h2 align="right">الان دارم با اینا کار می‌کنم 👨‍💻</h2>
+
+<h3 align="left">🖥 JavaScript | 80%</h3> <img width="400px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
+<br />
+
+<h3 align="left">🖥 React Js | 50%</h3> <img width="250px" src="https://github.com/sabzlearn-ir/sabzlearn-ir/blob/main/bar.png?raw=true" />
+
